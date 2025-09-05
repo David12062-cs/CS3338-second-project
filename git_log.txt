@@ -1,0 +1,45 @@
+commit 2fa467b66d87982deaca66806ce393b91966d4aa
+Merge: 6dff32f 9b33c8d
+Author: David Makaryan <d.makaryan@yahoo.com>
+Date:   Thu Sep 4 21:14:21 2025 -0700
+
+    Resolved merge conflict
+
+commit 9b33c8d7c66d29c94676d97f61bf5acd1d59db61
+Author: David Makaryan <d.makaryan@yahoo.com>
+Date:   Thu Sep 4 21:07:35 2025 -0700
+
+    Added favorite movie div on index-fix
+
+commit 6dff32f7c5d86984e0dd1f07a81a41cf40ee5c2a
+Author: David Makaryan <d.makaryan@yahoo.com>
+Date:   Thu Sep 4 21:03:34 2025 -0700
+
+    Added favorite food div on main
+
+commit 2f5190157c3743b67daabed342c3c32eaebdcef4
+Author: David Makaryan <d.makaryan@yahoo.com>
+Date:   Thu Sep 4 20:56:13 2025 -0700
+
+    Added README with program description
+
+commit 3bf91c9f299f159e9ad3d7367773fc2bc82495d4
+Merge: 1d2bfc0 6350aa0
+Author: David12062-cs <229683437+David12062-cs@users.noreply.github.com>
+Date:   Thu Sep 4 20:49:12 2025 -0700
+
+    Merge pull request #1 from David12062-cs/info-fill
+    
+    Merge info-fill into main
+
+commit 6350aa073ed8b58c28da74b4620e55425aafe37d
+Author: David Makaryan <d.makaryan@yahoo.com>
+Date:   Thu Sep 4 20:37:36 2025 -0700
+
+    Filled two blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
